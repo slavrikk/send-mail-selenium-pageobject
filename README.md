@@ -2,4 +2,4 @@
 Send Email to the address from config.properties
 
 In order to run test:
-mvn clean test
+`mvn clean test`
